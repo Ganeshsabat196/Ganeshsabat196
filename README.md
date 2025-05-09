@@ -48,8 +48,8 @@
 
 ## 📈 GitHub Stats
 
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshsabat&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsabat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshsabat196&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsabat196&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
