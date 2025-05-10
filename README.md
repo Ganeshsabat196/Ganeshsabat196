@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ganesh Sabat
 
-🎯 GATE CS 2025 | AIR 119  
-🎓 Final-Year CS Undergrad → Incoming M.Tech Student  
-💻 Web Developer | Competitive Coder  
-🧠 Skilled in C, C++, JavaScript  
-🌱 Learning Core CS Concepts.  
--“I'm not a great programmer; I'm just a good programmer with great habits.”
+- 🎯 GATE CS 2025 | AIR 119  
+- 🎓 Final-Year CS Undergrad → Incoming M.Tech Student  
+- 💻 Web Developer | Competitive Coder  
+- 🧠 Skilled in C, C++, JavaScript  
+- 🌱 Learning Core CS Concepts.  
+- “I'm not a great programmer; I'm just a good programmer with great habits.”
 
 ---
 
