@@ -57,7 +57,7 @@ z
 Feel free to reach out to me through the following platforms:
 
 <p align="left">
-  <a href="mailto:ganeshsabat1457@gmail.com">
+  <a href="mailto:01ganeshsabat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/ganesh-sabat-586291246/">
