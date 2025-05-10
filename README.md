@@ -50,6 +50,13 @@
 z
 ---
 
+## Contact Me
+
+
+- **LinkedIn**: ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_Logo_2013.svg) [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: ![Email](https://upload.wikimedia.org/wikipedia/commons/e/e7/Envelope_Icon.svg) [your.email@example.com](mailto:your.email@example.com)
+
+
 ## 🌐 Connect with Me
   
 <p align="left">
