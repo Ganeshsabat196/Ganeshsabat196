@@ -4,7 +4,7 @@
 🎓 Final-Year CS Undergrad → Incoming M.Tech Student  
 💻 Web Developer | Competitive Coder  
 🧠 Skilled in C, C++, JavaScript  
-🌱 Learning Core CS Concepts
+🌱 Learning Core CS Concepts.
 “I'm not a great programmer; I'm just a good programmer with great habits.”
 
 ---
