@@ -9,15 +9,6 @@
 
 ---
 
-## 🚀 About Me
-
--  Preparing for my M.Tech journey with a focus on systems and software development
--  Working on real-world web applications to sharpen my dev skills
--  Sharing notes and contributing to academic resources like GATE CS guides
--  Open to collaboration on dev or academic projects
-
----
-
 ## 🚀 Tech Stack
 
 <p align="left">
