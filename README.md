@@ -47,15 +47,15 @@
 
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshsabat196&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsabat196&layout=compact)](https://github.com/ganeshsabat196/github-readme-stats)
-
+z
 ---
 
 ## 🌐 Connect with Me
-
-[![LinkedIn]("https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin")  
+  
 <p align="left">
   <a href="mailto:ganeshsabat1457@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
 ---
