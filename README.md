@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Ganesh Sabat
 
-📍 India | 21 y/o
 🎯 GATE CS 2025 | AIR 119  
 🎓 Final-Year CS Undergrad → Incoming M.Tech Student  
 💻 Web Developer | Competitive Coder  
 🧠 Skilled in C, C++, JavaScript  
 🌱 Learning Core CS Concepts
 
+
 ---
 
 ## 🚀 About Me
 
-- 📖 Preparing for my M.Tech journey with a focus on systems and software development
-- 🛠️ Working on real-world web applications to sharpen my dev skills
-- 🧑‍🏫 Sharing notes and contributing to academic resources like GATE CS guides
-- 🤝 Open to collaboration on dev or academic projects
+-  Preparing for my M.Tech journey with a focus on systems and software development
+-  Working on real-world web applications to sharpen my dev skills
+-  Sharing notes and contributing to academic resources like GATE CS guides
+-  Open to collaboration on dev or academic projects
 
 ---
 
