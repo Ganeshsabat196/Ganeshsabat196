@@ -37,7 +37,7 @@
 ### 🛒 [E-Commerce Web App](https://github.com/your-username/ecommerce-app)
 > Full-stack shopping site with cart, login, and admin panel using MERN stack.
 
-### 📘 [GATE CS Notes]([https://github.com/your-username/gate-cs-notes](https://ganeshsabat196.github.io/Gatenotes/))
+### 📘 [GATE CS Notes]([https://ganeshsabat196.github.io/Gatenotes/])
 > Concise and organized GATE CS preparation materials and strategies.
 
 ### 🌐 [Portfolio Website](https://github.com/your-username/portfolio)
