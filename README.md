@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ganesh Sabat
 
 - 🎯 GATE CS 2025 | AIR 119  
-- 🎓 Final-Year CS Undergrad → M.Tech Student  
+- 🎓 M.Tech Student  
 - 💻 Web Developer | Competitive Coder  
 - 🧠 Skilled in C, C++, JavaScript  
 - 🌱 Learning Core CS Concepts.  
